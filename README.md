@@ -1,26 +1,11 @@
 # javaraul
-# comandos git
-1. para clonar un repositorio el comando es:
-```shell
-  git clone https://github.com/galb23/javaraul.git
-```
-2. para ver el estado en el que esta el repositorio se usa el sigueite comando
-```shell
-git status
-```
-3. para agregar todos  los archivos que se modificaron se debe usar el siguiente comando
-```shell
-git add˽.
-```
-3.1 para agregar un archivo que se modifico se debe usar el siguiente comando
-```shell
-git add [nombre del archivo]
-```
-4. para hacer commit se utiliza el sigueinte comando
-```shell
-git commit -m "mensaje del commit "
-```
-5. para subir los cambios
-```shell
-git push origin [nombre de la rama]
-```
+# url para ambiente java
+
+1. [ruta para bajar programa de consola](https://mobaxterm.mobatek.net/download-home-edition.html)
+
+2. [ruta para bajar editor de texto atom](https://atom.io/)
+3. [ruta para bajar git](https://git-scm.com/)
+4. [ruta para ver los comandos del editor de texto](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+5. [ruta para repositorio](https://github.com/)
+6. [ruta para bajar jdk ](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=openj9)
+7. [ruta para bajar eclipse](https://www.eclipse.org/downloads/)
