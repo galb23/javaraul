@@ -10,7 +10,7 @@ git status
 ```
 3. para agregar todos  los archivos que se modificaron se debe usar el siguiente comando
 ```shell
-git add .
+git add˽.
 ```
 3.1 para agregar un archivo que se modifico se debe usar el siguiente comando
 ```shell
