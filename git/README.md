@@ -25,7 +25,22 @@ git commit -m "mensaje del commit "
 git push origin [nombre de la rama]
 ```
 # archivos de configuracion de git
-  - el archivo gitignore sirve para ignorar archivos o evitar que se suban archivos al repositorio, se debe de escribir dentro del archivo los nombres de los archivos que no se quieran subir 
+  - el archivo gitignore sirve para ignorar archivos o evitar que se suban archivos al repositorio, se debe de escribir dentro del archivo los nombres de los archivos que no se quieran subir
   ```shell
   .gitignore
   ```
+  - la carpeta que contiene los archivos de configuracion del repositorio se llama **.git** dentro de esta carpeta esta el archivo **"config"** en el se guarda la configuracion del repositorio
+# comando de ramas
+
+1. para crear una rama se usa el sigueinte comando
+```shell
+git branch [nombre de la rama que se va a crear]
+```
+2. para cambiarnos a la nueva rama se utiliza el sigueinte comando
+```shell
+git checkout [nombre de la rama a la que se desea cambiar]
+```
+3. para ver las ramas qe tenemos disponibles que tenemos en local se usa el siguiente comando si la rama tiene un asterisco * es la rama donde te encuentras posicionado 
+```shell
+git branch
+```
