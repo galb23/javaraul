@@ -24,3 +24,8 @@ git commit -m "mensaje del commit "
 ```shell
 git push origin [nombre de la rama]
 ```
+# archivos de configuracion de git
+  - el archivo gitignore sirve para ignorar archivos o evitar que se suban archivos al repositorio, se debe de escribir dentro del archivo los nombres de los archivos que no se quieran subir 
+  ```shell
+  .gitignore
+  ```
