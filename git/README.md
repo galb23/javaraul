@@ -48,7 +48,7 @@ git checkout [nombre de la rama a la que se desea cambiar]
 ```shell
 git branch
 ```
-4. para mezclar cambios entre ramas primero se tienen que posicionar en la rama que se desea tener los cambios
+4. para mezclar cambios entre ramas primero se tienen que posicionar en la rama que se desea tener los cambios(ya no se necesita hacer  git add si no se tienen conflictos )
 ```shell
 git merge [rama de la que se quiere traer los cambios]
 ```
