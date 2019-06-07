@@ -60,3 +60,24 @@ git checkout -b [nombre de la rama que se va a crear]
 ```shell
 git pull origin  [nombre de la rama que se van a traer los cambios del servidor ]
 ```
+# regresar estados anteriores
+1. para ver los cambios que se hicieron en el archivo se utiliza el comando
+```shell
+git diff
+```
+2. para regresar a un estado anterior inmediato un archivo se utiliza el comando
+```shell
+git checkout "ruta del archivo"
+```
+3. para regresar todos los cambios hasta el ultimo commit se utiliza
+```shell
+git checkout .
+```
+4. para ver el log de los commit se utiliza el comando
+```shell
+git log
+```
+5. para regresar a un commit especifico se utiliza el comando
+```shell
+git checkout [uuid del commit]
+```
