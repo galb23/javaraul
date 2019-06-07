@@ -81,3 +81,14 @@ git log
 ```shell
 git checkout [uuid del commit]
 ```
+5.1. para hacer el commit de los cambios
+```shell
+git status
+git add .
+git commit -m "descripcion"
+git checkout -b [nombre de la rama]
+git checkout [rama donde se quiere tener los cambios]
+git merge [rama de la que se quieren traer los cambios]
+git push origin [rama ala que se quiere subir]
+```
+![representacion grafica de un cambio de estado ](https://lh3.googleusercontent.com/NAUizkUNyqFqb9DehLZmhHWpQcsPrrEtHIEAXyAKFSyj27SpCLmFwQHqKUCRzyKr38TPCluhjx0=w1336-h604)
