@@ -1,5 +1,5 @@
 # comandos consola
-> notas tmux es un multiplexor de terminal para sistemas tipo unix
+> notas tmux es un multiplexor de terminal para sistemas tipo unix solo funcionan en tmux 
 1 para mandarle el comando a tmux siempre va a ser
 ```shell
 ctrl + b
