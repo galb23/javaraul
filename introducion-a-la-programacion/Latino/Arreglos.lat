@@ -1,0 +1,7 @@
+colores = ['azul', 'verde','amarillo']
+
+colores[1] = 'rojo'
+
+desde( indice = 0; indice < 3; indice = indice + 1)
+    imprimir(colores[indice])
+fin
