@@ -1,0 +1,4 @@
+Numero =[1,2,3,4,5,6,7,8,9,10]
+desde(indice=10;indice>=0;indice=indice-1)
+  imprimir(Numero[indice])
+fin
