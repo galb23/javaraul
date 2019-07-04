@@ -1,0 +1,4 @@
+edad = 18
+otraCosa = "hlas"
+escribir("Eres mayor de edad, ya puedes votar. " .. otraCosa)
+
