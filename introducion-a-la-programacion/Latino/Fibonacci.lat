@@ -1,0 +1,11 @@
+anterior=0
+actual=0
+a=1
+b=0
+desde(i=0;i<20;i++)
+  imprimir(b)
+  anterior=b
+  b=a+b
+  a=anterior
+
+fin

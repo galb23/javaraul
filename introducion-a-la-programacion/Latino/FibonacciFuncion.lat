@@ -1,0 +1,14 @@
+funcion fibonacci (numero)
+  si numero==0
+    regresar numero
+  sino numero==1
+    regresar numero
+  sino
+    a=fibonacci(numero-1)
+    b=fibonacci(numero-2)
+    c=a+b
+    regresar  c
+  fin
+
+fin
+imprimir(fibonacci(0))

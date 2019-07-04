@@ -1,7 +1,7 @@
-nombre="gustavo"
-numero= 1
-booleano = cierto
-arreglo=[1,2,3,4,5,6,7,8]
-diccionario={101:"gato",102:"perro"}
-diccionariodos={"gato":103}
-escribe("imprimiendo la variable nombre de tipo texto: "..nombre)
+_nombre="gustavo"
+_numero= 1
+_booleano = cierto
+_arreglo=[1,2,3,4,5,6,7,8]
+_diccionario={101:"gato",102:"perro"}
+_diccionariodos={"gato":103}
+imprimir("imprimiendo la variable nombre de tipo texto: ".._nombre)
